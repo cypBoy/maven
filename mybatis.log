@@ -1,0 +1,30 @@
+[DEBUG][2018-08-08 16:31:52,908][com.ssm.dao.IClassInfoDao.selectClassInfoById]==>  Preparing: select * from ClassInfo where Id=? 
+[DEBUG][2018-08-08 16:31:52,965][com.ssm.dao.IClassInfoDao.selectClassInfoById]==> Parameters: 3(Long)
+[DEBUG][2018-08-08 16:31:53,059][com.ssm.dao.IClassInfoDao.selectClassInfoById]<==      Total: 1
+[DEBUG][2018-08-08 16:35:16,229][com.ssm.dao.IClassInfoDao.selectClassInfoById]==>  Preparing: select * from ClassInfo where Id=? 
+[DEBUG][2018-08-08 16:35:16,267][com.ssm.dao.IClassInfoDao.selectClassInfoById]==> Parameters: 3(Long)
+[DEBUG][2018-08-08 16:35:16,347][com.ssm.dao.IClassInfoDao.selectClassInfoById]<==      Total: 1
+[DEBUG][2018-08-08 22:22:31,919][com.ssm.dao.IClassInfoDao.selectClassInfoById]==>  Preparing: select * from ClassInfo where Id=? 
+[DEBUG][2018-08-08 22:22:32,020][com.ssm.dao.IClassInfoDao.selectClassInfoById]==> Parameters: 1(Long)
+[DEBUG][2018-08-08 22:22:32,072][com.ssm.dao.IClassInfoDao.selectClassInfoById]<==      Total: 1
+[DEBUG][2018-08-12 18:38:59,195][com.ssm.dao.IClassInfoDao.selectClassInfoById]==>  Preparing: select * from ClassInfo where Id=? 
+[DEBUG][2018-08-12 18:38:59,292][com.ssm.dao.IClassInfoDao.selectClassInfoById]==> Parameters: 1(Long)
+[DEBUG][2018-08-12 18:38:59,336][com.ssm.dao.IClassInfoDao.selectClassInfoById]<==      Total: 1
+[DEBUG][2018-08-12 18:39:27,355][com.ssm.dao.IClassInfoDao.selectClassInfoById]==>  Preparing: select * from ClassInfo where Id=? 
+[DEBUG][2018-08-12 18:39:27,392][com.ssm.dao.IClassInfoDao.selectClassInfoById]==> Parameters: 3(Long)
+[DEBUG][2018-08-12 18:39:27,466][com.ssm.dao.IClassInfoDao.selectClassInfoById]<==      Total: 1
+[DEBUG][2018-08-12 18:40:16,194][com.ssm.dao.IClassInfoDao.selectClassInfoById]==>  Preparing: select * from ClassInfo where Id=? 
+[DEBUG][2018-08-12 18:40:16,228][com.ssm.dao.IClassInfoDao.selectClassInfoById]==> Parameters: 4(Long)
+[DEBUG][2018-08-12 18:40:16,303][com.ssm.dao.IClassInfoDao.selectClassInfoById]<==      Total: 1
+[DEBUG][2018-08-25 10:27:24,458][com.ssm.dao.IClassInfoDao.selectClassInfoById]==>  Preparing: select * from ClassInfo where Id=? 
+[DEBUG][2018-08-25 10:27:24,513][com.ssm.dao.IClassInfoDao.selectClassInfoById]==> Parameters: 4(Long)
+[DEBUG][2018-08-25 10:27:24,629][com.ssm.dao.IClassInfoDao.selectClassInfoById]<==      Total: 1
+[DEBUG][2018-08-25 14:27:36,831][com.ssm.dao.IClassInfoDao.selectClassInfoById]==>  Preparing: select * from ClassInfo where Id=? 
+[DEBUG][2018-08-25 14:27:36,873][com.ssm.dao.IClassInfoDao.selectClassInfoById]==> Parameters: 1(Long)
+[DEBUG][2018-08-25 14:27:36,901][com.ssm.dao.IClassInfoDao.selectClassInfoById]<==      Total: 1
+[DEBUG][2018-08-25 14:42:24,563][com.ssm.dao.IClassInfoDao.selectClassInfoById]==>  Preparing: select * from ClassInfo where Id=? 
+[DEBUG][2018-08-25 14:42:24,600][com.ssm.dao.IClassInfoDao.selectClassInfoById]==> Parameters: 4(Long)
+[DEBUG][2018-08-25 14:42:24,677][com.ssm.dao.IClassInfoDao.selectClassInfoById]<==      Total: 1
+[DEBUG][2018-08-25 14:42:35,523][com.ssm.dao.IClassInfoDao.selectClassInfoById]==>  Preparing: select * from ClassInfo where Id=? 
+[DEBUG][2018-08-25 14:42:35,574][com.ssm.dao.IClassInfoDao.selectClassInfoById]==> Parameters: 1(Long)
+[DEBUG][2018-08-25 14:42:35,603][com.ssm.dao.IClassInfoDao.selectClassInfoById]<==      Total: 1
